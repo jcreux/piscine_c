@@ -1,0 +1,1 @@
+Credentials cache: API:E815C1C2-539F-48F0-B922-ED99B9A1D29C Principal: jcreux@42.FR Issued Expires Principal Jul 2 14:16:21 2018 Jul 9 14:16:21 2018 krbtgt/42.FR@42.FR
